@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DuquesaDoVale
-- 👀 I’m interested in learning to make webapps and small apps
+- 👋 Hi, I’m @DuquesaDoVale, a veterinarian looking into codes and technology
+- 👀 I’m interested in data analysis and business inteligence
 - 🌱 I’m currently learning java and sql
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me: just send me an email at duquesadovale@gmail.com
