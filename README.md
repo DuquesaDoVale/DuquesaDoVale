@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DuquesaDoVale, a veterinarian looking into codes and technology
+- 👋 Hi, I’m @DuquesaDoVale, an ex-veterinarian now bank employee looking into codes and technology
 - 👀 I’m interested in data analysis and business inteligence
 - 🌱 I’m currently learning java and sql
 - 💞️ I’m looking to collaborate on small projects
